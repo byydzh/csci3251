@@ -17,3 +17,5 @@ In this project, we will utilize the project management tools provided by GitHub
 - byydzh
 - ???
 - ???
+
+![workflow](https://github.com/csci3251-2022/project-team-b/tree/main/.github/workflows)
